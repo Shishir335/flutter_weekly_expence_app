@@ -1,4 +1,4 @@
-#Fri Jul 10 15:11:15 BDT 2020
-base.0=D\:\\Flutter apps\\second_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Fri Jul 10 23:03:26 BDT 2020
+base.0=D\:\\Flutter apps\\daily expence app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
